@@ -20,7 +20,7 @@
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageTags>socks socks5 socks4a socks4 fiddler fiddlercore proxy-server dotnet-standard2 dotnet-core</PackageTags>
-    <Version>1.2.2</Version>
+    <Version>1.2.3</Version>
   </PropertyGroup>
 
   <ItemGroup>
